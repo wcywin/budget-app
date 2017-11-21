@@ -1,4 +1,4 @@
-# budget-app
+# JavaScript Budget App
 JavaScript Budget App - calculating your monthly Income and Expenses upon input
 
 A pure JavaScript App that uses:
